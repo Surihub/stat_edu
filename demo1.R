@@ -66,3 +66,4 @@ data$요일 <- weekdays(data$기준_날짜, abbreviate = FALSE)
 ggplot(data[data$전체_이용_거리 < 20000, ], aes(x = 요일, y = 전체_이용_거리)) +
   geom_boxplot(fill = "dodgerblue") +
   labs(title = "자전거 전체 이용 거리 상자그림", x = "요일", y = "이용 거리 (미터)")
+
