@@ -1,0 +1,888 @@
+﻿생존여부,좌석등급,이름,성별,나이,형제자매및배우자수,부모나자식수,요금
+사망,3,Mr. Owen Harris Braund,남성,22,1,0,7.25
+생존,1,Mrs. John Bradley (Florence Briggs Thayer) Cumings,여성,38,1,0,71.2833
+생존,3,Miss. Laina Heikkinen,여성,26,0,0,7.925
+생존,1,Mrs. Jacques Heath (Lily May Peel) Futrelle,여성,35,1,0,53.1
+사망,3,Mr. William Henry Allen,남성,35,0,0,8.05
+사망,3,Mr. James Moran,남성,27,0,0,8.4583
+사망,1,Mr. Timothy J McCarthy,남성,54,0,0,51.8625
+사망,3,Master. Gosta Leonard Palsson,남성,2,3,1,21.075
+생존,3,Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson,여성,27,0,2,11.1333
+생존,2,Mrs. Nicholas (Adele Achem) Nasser,여성,14,1,0,30.0708
+생존,3,Miss. Marguerite Rut Sandstrom,여성,4,1,1,16.7
+생존,1,Miss. Elizabeth Bonnell,여성,58,0,0,26.55
+사망,3,Mr. William Henry Saundercock,남성,20,0,0,8.05
+사망,3,Mr. Anders Johan Andersson,남성,39,1,5,31.275
+사망,3,Miss. Hulda Amanda Adolfina Vestrom,여성,14,0,0,7.8542
+생존,2,Mrs. (Mary D Kingcome) Hewlett,여성,55,0,0,16
+사망,3,Master. Eugene Rice,남성,2,4,1,29.125
+생존,2,Mr. Charles Eugene Williams,남성,23,0,0,13
+사망,3,Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke,여성,31,1,0,18
+생존,3,Mrs. Fatima Masselmani,여성,22,0,0,7.225
+사망,2,Mr. Joseph J Fynney,남성,35,0,0,26
+생존,2,Mr. Lawrence Beesley,남성,34,0,0,13
+생존,3,Miss. Anna McGowan,여성,15,0,0,8.0292
+생존,1,Mr. William Thompson Sloper,남성,28,0,0,35.5
+사망,3,Miss. Torborg Danira Palsson,여성,8,3,1,21.075
+생존,3,Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund,여성,38,1,5,31.3875
+사망,3,Mr. Farred Chehab Emir,남성,26,0,0,7.225
+사망,1,Mr. Charles Alexander Fortune,남성,19,3,2,263
+생존,3,Miss. Ellen O'Dwyer,여성,24,0,0,7.8792
+사망,3,Mr. Lalio Todoroff,남성,23,0,0,7.8958
+사망,1,Don. Manuel E Uruchurtu,남성,40,0,0,27.7208
+생존,1,Mrs. William Augustus (Marie Eugenie) Spencer,여성,48,1,0,146.5208
+생존,3,Miss. Mary Agatha Glynn,여성,18,0,0,7.75
+사망,2,Mr. Edward H Wheadon,남성,66,0,0,10.5
+사망,1,Mr. Edgar Joseph Meyer,남성,28,1,0,82.1708
+사망,1,Mr. Alexander Oskar Holverson,남성,42,1,0,52
+생존,3,Mr. Hanna Mamee,남성,18,0,0,7.2292
+사망,3,Mr. Ernest Charles Cann,남성,21,0,0,8.05
+사망,3,Miss. Augusta Maria Vander Planke,여성,18,2,0,18
+생존,3,Miss. Jamila Nicola-Yarred,여성,14,1,0,11.2417
+사망,3,Mrs. Johan (Johanna Persdotter Larsson) Ahlin,여성,40,1,0,9.475
+사망,2,Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin,여성,27,1,0,21
+생존,2,Miss. Simonne Marie Anne Andree Laroche,여성,3,1,2,41.5792
+생존,3,Miss. Margaret Delia Devaney,여성,19,0,0,7.8792
+사망,3,Mr. William John Rogers,남성,30,0,0,8.05
+사망,3,Mr. Denis Lennon,남성,20,1,0,15.5
+생존,3,Miss. Bridget O'Driscoll,여성,27,0,0,7.75
+사망,3,Mr. Youssef Samaan,남성,16,2,0,21.6792
+사망,3,Mrs. Josef (Josefine Franchi) Arnold-Franchi,여성,18,1,0,17.8
+사망,3,Master. Juha Niilo Panula,남성,7,4,1,39.6875
+사망,3,Mr. Richard Cater Nosworthy,남성,21,0,0,7.8
+생존,1,Mrs. Henry Sleeper (Myna Haxtun) Harper,여성,49,1,0,76.7292
+생존,2,Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe,여성,29,1,0,26
+사망,1,Mr. Engelhart Cornelius Ostby,남성,65,0,1,61.9792
+생존,1,Mr. Hugh Woolner,남성,46,0,0,35.5
+생존,2,Miss. Emily Rugg,여성,21,0,0,10.5
+사망,3,Mr. Mansouer Novel,남성,28.5,0,0,7.2292
+생존,2,Miss. Constance Mirium West,여성,5,1,2,27.75
+사망,3,Master. William Frederick Goodwin,남성,11,5,2,46.9
+사망,3,Mr. Orsen Sirayanian,남성,22,0,0,7.2292
+생존,1,Miss. Amelie Icard,여성,38,0,0,80
+사망,1,Mr. Henry Birkhardt Harris,남성,45,1,0,83.475
+사망,3,Master. Harald Skoog,남성,4,3,2,27.9
+사망,1,Mr. Albert A Stewart,남성,64,0,0,27.7208
+생존,3,Master. Gerios Moubarek,남성,7,1,1,15.2458
+생존,2,Mrs. (Elizabeth Ramell) Nye,여성,29,0,0,10.5
+사망,3,Mr. Ernest James Crease,남성,19,0,0,8.1583
+생존,3,Miss. Erna Alexandra Andersson,여성,17,4,2,7.925
+사망,3,Mr. Vincenz Kink,남성,26,2,0,8.6625
+사망,2,Mr. Stephen Curnow Jenkin,남성,32,0,0,10.5
+사망,3,Miss. Lillian Amy Goodwin,여성,16,5,2,46.9
+사망,2,Mr. Ambrose Jr Hood,남성,21,0,0,73.5
+사망,3,Mr. Apostolos Chronopoulos,남성,26,1,0,14.4542
+생존,3,Mr. Lee Bing,남성,32,0,0,56.4958
+사망,3,Mr. Sigurd Hansen Moen,남성,25,0,0,7.65
+사망,3,Mr. Ivan Staneff,남성,23,0,0,7.8958
+사망,3,Mr. Rahamin Haim Moutal,남성,28,0,0,8.05
+생존,2,Master. Alden Gates Caldwell,남성,0.83,0,2,29
+생존,3,Miss. Elizabeth Dowdell,여성,30,0,0,12.475
+사망,3,Mr. Achille Waelens,남성,22,0,0,9
+생존,3,Mr. Jan Baptist Sheerlinck,남성,29,0,0,9.5
+생존,3,Miss. Brigdet Delia McDermott,여성,31,0,0,7.7875
+사망,1,Mr. Francisco M Carrau,남성,28,0,0,47.1
+생존,2,Miss. Bertha Ilett,여성,17,0,0,10.5
+생존,3,Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom,여성,33,3,0,15.85
+사망,3,Mr. William Neal Ford,남성,16,1,3,34.375
+사망,3,Mr. Selman Francis Slocovski,남성,20,0,0,8.05
+생존,1,Miss. Mabel Helen Fortune,여성,23,3,2,263
+사망,3,Mr. Francesco Celotti,남성,24,0,0,8.05
+사망,3,Mr. Emil Christmann,남성,29,0,0,8.05
+사망,3,Mr. Paul Edvin Andreasson,남성,20,0,0,7.8542
+사망,1,Mr. Herbert Fuller Chaffee,남성,46,1,0,61.175
+사망,3,Mr. Bertram Frank Dean,남성,26,1,2,20.575
+사망,3,Mr. Daniel Coxon,남성,59,0,0,7.25
+사망,3,Mr. Charles Joseph Shorney,남성,22,0,0,8.05
+사망,1,Mr. George B Goldschmidt,남성,71,0,0,34.6542
+생존,1,Mr. William Bertram Greenfield,남성,23,0,1,63.3583
+생존,2,Mrs. John T (Ada Julia Bone) Doling,여성,34,0,1,23
+사망,2,Mr. Sinai Kantor,남성,34,1,0,26
+사망,3,Miss. Matilda Petranec,여성,28,0,0,7.8958
+사망,3,Mr. Pastcho Petroff,남성,29,0,0,7.8958
+사망,1,Mr. Richard Frasar White,남성,21,0,1,77.2875
+사망,3,Mr. Gustaf Joel Johansson,남성,33,0,0,8.6542
+사망,3,Mr. Anders Vilhelm Gustafsson,남성,37,2,0,7.925
+사망,3,Mr. Stoytcho Mionoff,남성,28,0,0,7.8958
+생존,3,Miss. Anna Kristine Salkjelsvik,여성,21,0,0,7.65
+생존,3,Mr. Albert Johan Moss,남성,29,0,0,7.775
+사망,3,Mr. Tido Rekic,남성,38,0,0,7.8958
+생존,3,Miss. Bertha Moran,여성,28,1,0,24.15
+사망,1,Mr. Walter Chamberlain Porter,남성,47,0,0,52
+사망,3,Miss. Hileni Zabour,여성,14.5,1,0,14.4542
+사망,3,Mr. David John Barton,남성,22,0,0,8.05
+사망,3,Miss. Katriina Jussila,여성,20,1,0,9.825
+사망,3,Miss. Malake Attalah,여성,17,0,0,14.4583
+사망,3,Mr. Edvard Pekoniemi,남성,21,0,0,7.925
+사망,3,Mr. Patrick Connors,남성,70.5,0,0,7.75
+사망,2,Mr. William John Robert Turpin,남성,29,1,0,21
+사망,1,Mr. Quigg Edmond Baxter,남성,24,0,1,247.5208
+사망,3,Miss. Ellis Anna Maria Andersson,여성,2,4,2,31.275
+사망,2,Mr. Stanley George Hickman,남성,21,2,0,73.5
+사망,3,Mr. Leonard Charles Moore,남성,19,0,0,8.05
+사망,2,Mr. Nicholas Nasser,남성,32.5,1,0,30.0708
+생존,2,Miss. Susan Webber,여성,32.5,0,0,13
+사망,1,Mr. Percival Wayland White,남성,54,0,1,77.2875
+생존,3,Master. Elias Nicola-Yarred,남성,12,1,0,11.2417
+사망,3,Mr. Martin McMahon,남성,19,0,0,7.75
+생존,3,Mr. Fridtjof Arne Madsen,남성,24,0,0,7.1417
+생존,3,Miss. Anna Peter,여성,2,1,1,22.3583
+사망,3,Mr. Johan Ekstrom,남성,45,0,0,6.975
+사망,3,Mr. Jozef Drazenoic,남성,33,0,0,7.8958
+사망,3,Mr. Domingos Fernandeo Coelho,남성,20,0,0,7.05
+사망,3,Mrs. Alexander A (Grace Charity Laury) Robins,여성,47,1,0,14.5
+생존,2,Mrs. Leopold (Mathilde Francoise Pede) Weisz,여성,29,1,0,26
+사망,2,Mr. Samuel James Hayden Sobey,남성,25,0,0,13
+사망,2,Mr. Emile Richard,남성,23,0,0,15.0458
+생존,1,Miss. Helen Monypeny Newsom,여성,19,0,2,26.2833
+사망,1,Mr. Jacques Heath Futrelle,남성,37,1,0,53.1
+사망,3,Mr. Olaf Elon Osen,남성,16,0,0,9.2167
+사망,1,Mr. Victor Giglio,남성,24,0,0,79.2
+사망,3,Mrs. Joseph (Sultana) Boulos,여성,40,0,2,15.2458
+생존,3,Miss. Anna Sofia Nysten,여성,22,0,0,7.75
+생존,3,Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen,여성,24,1,0,15.85
+사망,3,Mr. Jeremiah Burke,남성,19,0,0,6.75
+사망,2,Mr. Edgardo Samuel Andrew,남성,18,0,0,11.5
+사망,2,Mr. Joseph Charles Nicholls,남성,19,1,1,36.75
+생존,3,Mr. August Edvard Andersson,남성,27,0,0,7.7958
+사망,3,Miss. Robina Maggie Ford,여성,9,2,2,34.375
+사망,2,Mr. Michel Navratil,남성,36.5,0,2,26
+사망,2,Rev. Thomas Roussel Davids Byles,남성,42,0,0,13
+사망,2,Rev. Robert James Bateman,남성,51,0,0,12.525
+생존,1,Mrs. Thomas (Edith Wearne) Pears,여성,22,1,0,66.6
+사망,3,Mr. Alfonzo Meo,남성,55.5,0,0,8.05
+사망,3,Mr. Austin Blyler van Billiard,남성,40.5,0,2,14.5
+사망,3,Mr. Ole Martin Olsen,남성,27,0,0,7.3125
+사망,1,Mr. Charles Duane Williams,남성,51,0,1,61.3792
+생존,3,Miss. Katherine Gilnagh,여성,16,0,0,7.7333
+사망,3,Mr. Harry Corn,남성,30,0,0,8.05
+사망,3,Mr. Mile Smiljanic,남성,37,0,0,8.6625
+사망,3,Master. Thomas Henry Sage,남성,5,8,2,69.55
+사망,3,Mr. John Hatfield Cribb,남성,44,0,1,16.1
+생존,2,Mrs. James (Elizabeth Inglis Milne) Watt,여성,40,0,0,15.75
+사망,3,Mr. John Viktor Bengtsson,남성,26,0,0,7.775
+사망,3,Mr. Jovo Calic,남성,17,0,0,8.6625
+사망,3,Master. Eino Viljami Panula,남성,1,4,1,39.6875
+생존,3,Master. Frank John William Goldsmith,남성,9,0,2,20.525
+생존,1,Mrs. (Edith Martha Bowerman) Chibnall,여성,48,0,1,55
+사망,3,Mrs. William (Anna Bernhardina Karlsson) Skoog,여성,45,1,4,27.9
+사망,1,Mr. John D Baumann,남성,60,0,0,25.925
+사망,3,Mr. Lee Ling,남성,28,0,0,56.4958
+사망,1,Mr. Wyckoff Van der hoef,남성,61,0,0,33.5
+사망,3,Master. Arthur Rice,남성,4,4,1,29.125
+생존,3,Miss. Eleanor Ileen Johnson,여성,1,1,1,11.1333
+사망,3,Mr. Antti Wilhelm Sivola,남성,21,0,0,7.925
+사망,1,Mr. James Clinch Smith,남성,56,0,0,30.6958
+사망,3,Mr. Klas Albin Klasen,남성,18,1,1,7.8542
+사망,3,Master. Henry Forbes Lefebre,남성,5,3,1,25.4667
+사망,1,Miss. Ann Elizabeth Isham,여성,50,0,0,28.7125
+사망,2,Mr. Reginald Hale,남성,30,0,0,13
+사망,3,Mr. Lionel Leonard,남성,36,0,0,0
+사망,3,Miss. Constance Gladys Sage,여성,8,8,2,69.55
+사망,2,Mr. Rene Pernot,남성,39,0,0,15.05
+사망,3,Master. Clarence Gustaf Hugo Asplund,남성,9,4,2,31.3875
+생존,2,Master. Richard F Becker,남성,1,2,1,39
+생존,3,Miss. Luise Gretchen Kink-Heilmann,여성,4,0,2,22.025
+사망,1,Mr. Hugh Roscoe Rood,남성,39,0,0,50
+생존,3,Mrs. Thomas (Johanna Godfrey) O'Brien,여성,26,1,0,15.5
+생존,1,Mr. Charles Hallace Romaine,남성,45,0,0,26.55
+사망,3,Mr. John Bourke,남성,40,1,1,15.5
+사망,3,Mr. Stjepan Turcin,남성,36,0,0,7.8958
+생존,2,Mrs. (Rosa) Pinsky,여성,32,0,0,13
+사망,2,Mr. William Carbines,남성,19,0,0,13
+생존,3,Miss. Carla Christine Nielsine Andersen-Jensen,여성,19,1,0,7.8542
+생존,2,Master. Michel M Navratil,남성,3,1,1,26
+생존,1,Mrs. James Joseph (Margaret Tobin) Brown,여성,44,0,0,27.7208
+생존,1,Miss. Elise Lurette,여성,58,0,0,146.5208
+사망,3,Mr. Robert Mernagh,남성,28,0,0,7.75
+사망,3,Mr. Karl Siegwart Andreas Olsen,남성,42,0,1,8.4042
+생존,3,Miss. Margaret Madigan,여성,21,0,0,7.75
+사망,2,Miss. Henriette Yrois,여성,24,0,0,13
+사망,3,Mr. Nestor Cyriel Vande Walle,남성,28,0,0,9.5
+사망,3,Mr. Frederick Sage,남성,17,8,2,69.55
+사망,3,Mr. Jakob Alfred Johanson,남성,34,0,0,6.4958
+사망,3,Mr. Gerious Youseff,남성,45.5,0,0,7.225
+생존,3,Mr. Gurshon Cohen,남성,18,0,0,8.05
+사망,3,Miss. Telma Matilda Strom,여성,2,0,1,10.4625
+사망,3,Mr. Karl Alfred Backstrom,남성,32,1,0,15.85
+생존,3,Mr. Nassef Cassem Albimona,남성,26,0,0,18.7875
+생존,3,Miss. Helen Carr,여성,16,0,0,7.75
+생존,1,Mr. Henry Blank,남성,40,0,0,31
+사망,3,Mr. Ahmed Ali,남성,24,0,0,7.05
+생존,2,Miss. Clear Annie Cameron,여성,35,0,0,21
+사망,3,Mr. John Henry Perkin,남성,22,0,0,7.25
+사망,2,Mr. Hans Kristensen Givard,남성,30,0,0,13
+사망,3,Mr. Philip Kiernan,남성,22,1,0,7.75
+생존,1,Miss. Madeleine Newell,여성,31,1,0,113.275
+생존,3,Miss. Eliina Honkanen,여성,27,0,0,7.925
+사망,2,Mr. Sidney Samuel Jacobsohn,남성,42,1,0,27
+생존,1,Miss. Albina Bazzani,여성,32,0,0,76.2917
+사망,2,Mr. Walter Harris,남성,30,0,0,10.5
+생존,3,Mr. Victor Francis Sunderland,남성,16,0,0,8.05
+사망,2,Mr. James H Bracken,남성,27,0,0,13
+사망,3,Mr. George Henry Green,남성,51,0,0,8.05
+사망,3,Mr. Christo Nenkoff,남성,22,0,0,7.8958
+생존,1,Mr. Frederick Maxfield Hoyt,남성,38,1,0,90
+사망,3,Mr. Karl Ivar Sven Berglund,남성,22,0,0,9.35
+생존,2,Mr. William John Mellors,남성,19,0,0,10.5
+사망,3,Mr. John Hall Lovell,남성,20.5,0,0,7.25
+사망,2,Mr. Arne Jonas Fahlstrom,남성,18,0,0,13
+사망,3,Miss. Mathilde Lefebre,여성,12,3,1,25.4667
+생존,1,Mrs. Henry Birkhardt (Irene Wallach) Harris,여성,35,1,0,83.475
+사망,3,Mr. Bengt Edvin Larsson,남성,29,0,0,7.775
+사망,2,Mr. Ernst Adolf Sjostedt,남성,59,0,0,13.5
+생존,3,Miss. Lillian Gertrud Asplund,여성,5,4,2,31.3875
+사망,2,Mr. Robert William Norman Leyson,남성,24,0,0,10.5
+사망,3,Miss. Alice Phoebe Harknett,여성,21,0,0,7.55
+사망,2,Mr. Stephen Hold,남성,44,1,0,26
+생존,2,Miss. Marjorie Collyer,여성,8,0,2,26.25
+사망,2,Mr. Frederick William Pengelly,남성,19,0,0,10.5
+사망,2,Mr. George Henry Hunt,남성,33,0,0,12.275
+사망,3,Miss. Thamine Zabour,여성,19,1,0,14.4542
+생존,3,Miss. Katherine Murphy,여성,18,1,0,15.5
+사망,2,Mr. Reginald Charles Coleridge,남성,29,0,0,10.5
+사망,3,Mr. Matti Alexanteri Maenpaa,남성,22,0,0,7.125
+사망,3,Mr. Sleiman Attalah,남성,30,0,0,7.225
+사망,1,Dr. William Edward Minahan,남성,44,2,0,90
+사망,3,Miss. Agda Thorilda Viktoria Lindahl,여성,25,0,0,7.775
+생존,2,Mrs. William (Anna) Hamalainen,여성,24,0,2,14.5
+생존,1,Mr. Richard Leonard Beckwith,남성,37,1,1,52.5542
+사망,2,Rev. Ernest Courtenay Carter,남성,54,1,0,26
+사망,3,Mr. James George Reed,남성,18,0,0,7.25
+사망,3,Mrs. Wilhelm (Elna Matilda Persson) Strom,여성,29,1,1,10.4625
+사망,1,Mr. William Thomas Stead,남성,62,0,0,26.55
+사망,3,Mr. William Arthur Lobb,남성,30,1,0,16.1
+사망,3,Mrs. Viktor (Helena Wilhelmina) Rosblom,여성,41,0,2,20.2125
+생존,3,Mrs. Darwis (Hanne Youssef Razi) Touma,여성,29,0,2,15.2458
+생존,1,Mrs. Gertrude Maybelle Thorne,여성,38,0,0,79.2
+생존,1,Miss. Gladys Cherry,여성,30,0,0,86.5
+생존,1,Miss. Anna Ward,여성,35,0,0,512.3292
+생존,2,Mrs. (Lutie Davis) Parrish,여성,50,0,1,26
+생존,3,Master. Edvin Rojj Felix Asplund,남성,3,4,2,31.3875
+사망,1,Mr. Emil Taussig,남성,52,1,1,79.65
+사망,1,Mr. William Harrison,남성,40,0,0,0
+사망,3,Miss. Delia Henry,여성,21,0,0,7.75
+사망,2,Mr. David Reeves,남성,36,0,0,10.5
+사망,3,Mr. Ernesti Arvid Panula,남성,16,4,1,39.6875
+생존,3,Mr. Ernst Ulrik Persson,남성,25,1,0,7.775
+생존,1,Mrs. William Thompson (Edith Junkins) Graham,여성,58,0,1,153.4625
+생존,1,Miss. Amelia Bissette,여성,35,0,0,135.6333
+사망,1,Mr. Alexander Cairns,남성,28,0,0,31
+생존,3,Mr. William Henry Tornquist,남성,25,0,0,0
+생존,2,Mrs. (Elizabeth Anne Maidment) Mellinger,여성,41,0,1,19.5
+사망,1,Mr. Charles H Natsch,남성,37,0,1,29.7
+생존,3,Miss. Hanora Healy,여성,33,0,0,7.75
+생존,1,Miss. Kornelia Theodosia Andrews,여성,63,1,0,77.9583
+사망,3,Miss. Augusta Charlotta Lindblom,여성,45,0,0,7.75
+사망,2,Mr. Francis Parkes,남성,21,0,0,0
+사망,3,Master. Eric Rice,남성,7,4,1,29.125
+생존,3,Mrs. Stanton (Rosa Hunt) Abbott,여성,35,1,1,20.25
+사망,3,Mr. Frank Duane,남성,65,0,0,7.75
+사망,3,Mr. Nils Johan Goransson Olsson,남성,28,0,0,7.8542
+사망,3,Mr. Alfons de Pelsmaeker,남성,16,0,0,9.5
+생존,3,Mr. Edward Arthur Dorking,남성,19,0,0,8.05
+사망,1,Mr. Richard William Smith,남성,57,0,0,26
+사망,3,Mr. Ivan Stankovic,남성,33,0,0,8.6625
+생존,3,Mr. Theodore de Mulder,남성,30,0,0,9.5
+사망,3,Mr. Penko Naidenoff,남성,22,0,0,7.8958
+생존,2,Mr. Masabumi Hosono,남성,42,0,0,13
+생존,3,Miss. Kate Connolly,여성,22,0,0,7.75
+생존,1,Miss. Ellen Barber,여성,26,0,0,78.85
+생존,1,Mrs. Dickinson H (Helen Walton) Bishop,여성,19,1,0,91.0792
+사망,2,Mr. Rene Jacques Levy,남성,36,0,0,12.875
+사망,3,Miss. Aloisia Haas,여성,24,0,0,8.85
+사망,3,Mr. Ivan Mineff,남성,24,0,0,7.8958
+사망,1,Mr. Ervin G Lewy,남성,30,0,0,27.7208
+사망,3,Mr. Mansour Hanna,남성,23.5,0,0,7.2292
+사망,1,Miss. Helen Loraine Allison,여성,2,1,2,151.55
+생존,1,Mr. Adolphe Saalfeld,남성,47,0,0,30.5
+생존,1,Mrs. James (Helene DeLaudeniere Chaput) Baxter,여성,50,0,1,247.5208
+생존,3,Miss. Anna Katherine Kelly,여성,20,0,0,7.75
+생존,3,Mr. Bernard McCoy,남성,24,2,0,23.25
+사망,3,Mr. William Cahoone Jr Johnson,남성,19,0,0,0
+생존,2,Miss. Nora A Keane,여성,46,0,0,12.35
+사망,3,Mr. Howard Hugh Williams,남성,28,0,0,8.05
+생존,1,Master. Hudson Trevor Allison,남성,0.92,1,2,151.55
+생존,1,Miss. Margaret Fleming,여성,42,0,0,110.8833
+생존,1,Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana,여성,17,1,0,108.9
+사망,2,Mr. Samuel Abelson,남성,30,1,0,24
+생존,1,Miss. Laura Mabel Francatelli,여성,30,0,0,56.9292
+생존,1,Miss. Margaret Bechstein Hays,여성,24,0,0,83.1583
+생존,1,Miss. Emily Borie Ryerson,여성,18,2,2,262.375
+사망,2,Mrs. William (Anna Sylfven) Lahtinen,여성,26,1,1,26
+사망,3,Mr. Ignjac Hendekovic,남성,28,0,0,7.8958
+사망,2,Mr. Benjamin Hart,남성,43,1,1,26.25
+생존,3,Miss. Helmina Josefina Nilsson,여성,26,0,0,7.8542
+생존,2,Mrs. Sinai (Miriam Sternin) Kantor,여성,24,1,0,26
+사망,2,Dr. Ernest Moraweck,남성,54,0,0,14
+생존,1,Miss. Mary Natalie Wick,여성,31,0,2,164.8667
+생존,1,Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden,여성,40,1,1,134.5
+사망,3,Mr. Samuel Dennis,남성,22,0,0,7.25
+사망,3,Mr. Yoto Danoff,남성,27,0,0,7.8958
+생존,2,Miss. Hilda Mary Slayter,여성,30,0,0,12.35
+생존,2,Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell,여성,22,1,1,29
+사망,3,Mr. George John Jr Sage,남성,20,8,2,69.55
+생존,1,Miss. Marie Grice Young,여성,36,0,0,135.6333
+사망,3,Mr. Johan Hansen Nysveen,남성,61,0,0,6.2375
+생존,2,Mrs. (Ada E Hall) Ball,여성,36,0,0,13
+생존,3,Mrs. Frank John (Emily Alice Brown) Goldsmith,여성,31,1,1,20.525
+생존,1,Miss. Jean Gertrude Hippach,여성,16,0,1,57.9792
+생존,3,Miss. Agnes McCoy,여성,28,2,0,23.25
+사망,1,Mr. Austen Partner,남성,45.5,0,0,28.5
+사망,1,Mr. George Edward Graham,남성,38,0,1,153.4625
+사망,3,Mr. Leo Edmondus Vander Planke,남성,16,2,0,18
+생존,1,Mrs. Henry William (Clara Heinsheimer) Frauenthal,여성,42,1,0,133.65
+사망,3,Mr. Mitto Denkoff,남성,30,0,0,7.8958
+사망,1,Mr. Thomas Clinton Pears,남성,29,1,0,66.6
+생존,1,Miss. Elizabeth Margaret Burns,여성,41,0,0,134.5
+생존,3,Mr. Karl Edwart Dahl,남성,45,0,0,8.05
+사망,1,Mr. Stephen Weart Blackwell,남성,45,0,0,35.5
+생존,2,Master. Edmond Roger Navratil,남성,2,1,1,26
+생존,1,Miss. Alice Elizabeth Fortune,여성,24,3,2,263
+사망,2,Mr. Erik Gustaf Collander,남성,28,0,0,13
+사망,2,Mr. Charles Frederick Waddington Sedgwick,남성,25,0,0,13
+사망,2,Mr. Stanley Hubert Fox,남성,36,0,0,13
+생존,2,Miss. Amelia Brown,여성,24,0,0,13
+생존,2,Miss. Marion Elsie Smith,여성,40,0,0,13
+생존,3,Mrs. Thomas Henry (Mary E Finck) Davison,여성,34,1,0,16.1
+생존,3,Master. William Loch Coutts,남성,3,1,1,15.9
+사망,3,Mr. Jovan Dimic,남성,42,0,0,8.6625
+사망,3,Mr. Nils Martin Odahl,남성,23,0,0,9.225
+사망,1,Mr. Fletcher Fellows Williams-Lambert,남성,43,0,0,35
+사망,3,Mr. Tannous Elias,남성,15,1,1,7.2292
+사망,3,Mr. Josef Arnold-Franchi,남성,25,1,0,17.8
+사망,3,Mr. Wazli Yousif,남성,23,0,0,7.225
+사망,3,Mr. Leo Peter Vanden Steen,남성,28,0,0,9.5
+생존,1,Miss. Elsie Edith Bowerman,여성,22,0,1,55
+사망,2,Miss. Annie Clemmer Funk,여성,38,0,0,13
+생존,3,Miss. Mary McGovern,여성,22,0,0,7.8792
+생존,3,Miss. Helen Mary Mockler,여성,23,0,0,7.8792
+사망,3,Mr. Wilhelm Skoog,남성,40,1,4,27.9
+사망,2,Mr. Sebastiano del Carlo,남성,29,1,0,27.7208
+사망,3,Mrs. (Catherine David) Barbara,여성,45,0,1,14.4542
+사망,3,Mr. Adola Asim,남성,35,0,0,7.05
+사망,3,Mr. Thomas O'Brien,남성,27,1,0,15.5
+사망,3,Mr. Mauritz Nils Martin Adahl,남성,30,0,0,7.25
+생존,1,Mrs. Frank Manley (Anna Sophia Atkinson) Warren,여성,60,1,0,75.25
+생존,3,Mrs. (Mantoura Boulos) Moussa,여성,35,0,0,7.2292
+생존,3,Miss. Annie Jermyn,여성,22,0,0,7.75
+생존,1,Mme. Leontine Pauline Aubart,여성,24,0,0,69.3
+생존,1,Mr. George Achilles Harder,남성,25,1,0,55.4417
+사망,3,Mr. Jakob Alfred Wiklund,남성,18,1,0,6.4958
+사망,3,Mr. William Thomas Beavan,남성,19,0,0,8.05
+사망,1,Mr. Sante Ringhini,남성,22,0,0,135.6333
+사망,3,Miss. Stina Viola Palsson,여성,3,3,1,21.075
+생존,1,Mrs. Edgar Joseph (Leila Saks) Meyer,여성,25,1,0,82.1708
+생존,3,Miss. Aurora Adelia Landergren,여성,22,0,0,7.25
+사망,1,Mr. Harry Elkins Widener,남성,27,0,2,211.5
+사망,3,Mr. Tannous Betros,남성,20,0,0,4.0125
+사망,3,Mr. Karl Gideon Gustafsson,남성,19,0,0,7.775
+생존,1,Miss. Rosalie Bidois,여성,42,0,0,227.525
+생존,3,Miss. Maria Nakid,여성,1,0,2,15.7417
+사망,3,Mr. Juho Tikkanen,남성,32,0,0,7.925
+생존,1,Mrs. Alexander Oskar (Mary Aline Towner) Holverson,여성,35,1,0,52
+사망,3,Mr. Vasil Plotcharsky,남성,27,0,0,7.8958
+사망,2,Mr. Charles Henry Davies,남성,18,0,0,73.5
+사망,3,Master. Sidney Leonard Goodwin,남성,1,5,2,46.9
+생존,2,Miss. Kate Buss,여성,36,0,0,13
+사망,3,Mr. Matthew Sadlier,남성,19,0,0,7.7292
+생존,2,Miss. Bertha Lehmann,여성,17,0,0,12
+생존,1,Mr. William Ernest Carter,남성,36,1,2,120
+생존,3,Mr. Carl Olof Jansson,남성,21,0,0,7.7958
+사망,3,Mr. Johan Birger Gustafsson,남성,28,2,0,7.925
+생존,1,Miss. Marjorie Newell,여성,23,1,0,113.275
+생존,3,Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom,여성,24,0,2,16.7
+사망,3,Mr. Erik Johansson,남성,22,0,0,7.7958
+사망,3,Miss. Elina Olsson,여성,31,0,0,7.8542
+사망,2,Mr. Peter David McKane,남성,46,0,0,26
+사망,2,Dr. Alfred Pain,남성,23,0,0,10.5
+생존,2,Mrs. William H (Jessie L) Trout,여성,28,0,0,12.65
+생존,3,Mr. Juha Niskanen,남성,39,0,0,7.925
+사망,3,Mr. John Adams,남성,26,0,0,8.05
+사망,3,Miss. Mari Aina Jussila,여성,21,1,0,9.825
+사망,3,Mr. Pekka Pietari Hakkarainen,남성,28,1,0,15.85
+사망,3,Miss. Marija Oreskovic,여성,20,0,0,8.6625
+사망,2,Mr. Shadrach Gale,남성,34,1,0,21
+사망,3,Mr. Carl/Charles Peter Widegren,남성,51,0,0,7.75
+생존,2,Master. William Rowe Richards,남성,3,1,1,18.75
+사망,3,Mr. Hans Martin Monsen Birkeland,남성,21,0,0,7.775
+사망,3,Miss. Ida Lefebre,여성,3,3,1,25.4667
+사망,3,Mr. Todor Sdycoff,남성,42,0,0,7.8958
+사망,3,Mr. Henry Hart,남성,27,0,0,6.8583
+생존,1,Miss. Daisy E Minahan,여성,33,1,0,90
+사망,2,Mr. Alfred Fleming Cunningham,남성,22,0,0,0
+생존,3,Mr. Johan Julian Sundman,남성,44,0,0,7.925
+사망,3,Mrs. Thomas (Annie Louise Rowley) Meek,여성,32,0,0,8.05
+생존,2,Mrs. James Vivian (Lulu Thorne Christian) Drew,여성,34,1,1,32.5
+생존,2,Miss. Lyyli Karoliina Silven,여성,18,0,2,13
+사망,2,Mr. William John Matthews,남성,30,0,0,13
+사망,3,Miss. Catharina Van Impe,여성,10,0,2,24.15
+사망,3,Mr. David Charters,남성,21,0,0,7.7333
+사망,3,Mr. Leo Zimmerman,남성,29,0,0,7.875
+사망,3,Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom,여성,28,1,1,14.4
+사망,3,Mr. Viktor Richard Rosblom,남성,18,1,1,20.2125
+사망,3,Mr. Phillippe Wiseman,남성,54,0,0,7.25
+생존,2,Mrs. Charles V (Ada Maria Winfield) Clarke,여성,28,1,0,26
+생존,2,Miss. Kate Florence Phillips,여성,19,0,0,26
+사망,3,Mr. James Flynn,남성,28,0,0,7.75
+생존,3,Mr. Berk (Berk Trembisky) Pickard,남성,32,0,0,8.05
+생존,1,Mr. Mauritz Hakan Bjornstrom-Steffansson,남성,28,0,0,26.55
+생존,3,Mrs. Percival (Florence Kate White) Thorneycroft,여성,33,1,0,16.1
+생존,2,Mrs. Charles Alexander (Alice Adelaide Slow) Louch,여성,42,1,0,26
+사망,3,Mr. Nikolai Erland Kallio,남성,17,0,0,7.125
+사망,1,Mr. William Baird Silvey,남성,50,1,0,55.9
+생존,1,Miss. Lucile Polk Carter,여성,14,1,2,120
+사망,3,Miss. Doolina Margaret Ford,여성,21,2,2,34.375
+생존,2,Mrs. Sidney (Emily Hocking) Richards,여성,24,2,3,18.75
+사망,1,Mr. Mark Fortune,남성,64,1,4,263
+사망,2,Mr. Johan Henrik Johannesson Kvillner,남성,31,0,0,10.5
+생존,2,Mrs. Benjamin (Esther Ada Bloomfield) Hart,여성,45,1,1,26.25
+사망,3,Mr. Leon Hampe,남성,20,0,0,9.5
+사망,3,Mr. Johan Emil Petterson,남성,25,1,0,7.775
+생존,2,Ms. Encarnacion Reynaldo,여성,28,0,0,13
+생존,3,Mr. Bernt Johannesen-Bratthammer,남성,29,0,0,8.1125
+생존,1,Master. Washington Dodge,남성,4,0,2,81.8583
+생존,2,Miss. Madeleine Violet Mellinger,여성,13,0,1,19.5
+생존,1,Mr. Frederic Kimber Seward,남성,34,0,0,26.55
+생존,3,Miss. Marie Catherine Baclini,여성,5,2,1,19.2583
+생존,1,Major. Arthur Godfrey Peuchen,남성,52,0,0,30.5
+사망,2,Mr. Edwy Arthur West,남성,36,1,2,27.75
+사망,3,Mr. Ingvald Olai Olsen Hagland,남성,28,1,0,19.9667
+사망,1,Mr. Benjamin Laventall Foreman,남성,30,0,0,27.75
+생존,1,Mr. Samuel L Goldenberg,남성,49,1,0,89.1042
+사망,3,Mr. Joseph Peduzzi,남성,24,0,0,8.05
+생존,3,Mr. Ivan Jalsevac,남성,29,0,0,7.8958
+사망,1,Mr. Francis Davis Millet,남성,65,0,0,26.55
+생존,1,Mrs. Frederick R (Marion) Kenyon,여성,41,1,0,51.8625
+생존,2,Miss. Ellen Toomey,여성,50,0,0,10.5
+사망,3,Mr. Maurice O'Connor,남성,17,0,0,7.75
+생존,1,Mr. Harry Anderson,남성,48,0,0,26.55
+사망,3,Mr. William Morley,남성,34,0,0,8.05
+사망,1,Mr. Arthur H Gee,남성,47,0,0,38.5
+사망,2,Mr. Jacob Christian Milling,남성,48,0,0,13
+사망,3,Mr. Simon Maisner,남성,34,0,0,8.05
+사망,3,Mr. Manuel Estanslas Goncalves,남성,38,0,0,7.05
+사망,2,Mr. William Campbell,남성,21,0,0,0
+사망,1,Mr. John Montgomery Smart,남성,56,0,0,26.55
+사망,3,Mr. James Scanlan,남성,22,0,0,7.725
+생존,3,Miss. Helene Barbara Baclini,여성,0.75,2,1,19.2583
+사망,3,Mr. Arthur Keefe,남성,39,0,0,7.25
+사망,3,Mr. Luka Cacic,남성,38,0,0,8.6625
+생존,2,Mrs. Edwy Arthur (Ada Mary Worth) West,여성,33,1,2,27.75
+생존,2,Mrs. Amin S (Marie Marthe Thuillard) Jerwan,여성,23,0,0,13.7917
+사망,3,Miss. Ida Sofia Strandberg,여성,22,0,0,9.8375
+사망,1,Mr. George Quincy Clifford,남성,40,0,0,52
+사망,2,Mr. Peter Henry Renouf,남성,34,1,0,21
+사망,3,Mr. Lewis Richard Braund,남성,29,1,0,7.0458
+사망,3,Mr. Nils August Karlsson,남성,22,0,0,7.5208
+생존,3,Miss. Hildur E Hirvonen,여성,2,0,1,12.2875
+사망,3,Master. Harold Victor Goodwin,남성,9,5,2,46.9
+사망,2,Mr. Anthony Wood Frost,남성,37,0,0,0
+사망,3,Mr. Richard Henry Rouse,남성,50,0,0,8.05
+생존,3,Mrs. (Hedwig) Turkula,여성,63,0,0,9.5875
+생존,1,Mr. Dickinson H Bishop,남성,25,1,0,91.0792
+사망,3,Miss. Jeannie Lefebre,여성,8,3,1,25.4667
+생존,1,Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt,여성,35,1,0,90
+사망,1,Mr. Edward Austin Kent,남성,58,0,0,29.7
+사망,3,Mr. Francis William Somerton,남성,30,0,0,8.05
+생존,3,Master. Eden Leslie Coutts,남성,9,1,1,15.9
+사망,3,Mr. Konrad Mathias Reiersen Hagland,남성,19,1,0,19.9667
+사망,3,Mr. Einar Windelov,남성,21,0,0,7.25
+사망,1,Mr. Harry Markland Molson,남성,55,0,0,30.5
+사망,1,Mr. Ramon Artagaveytia,남성,71,0,0,49.5042
+사망,3,Mr. Edward Roland Stanley,남성,21,0,0,8.05
+사망,3,Mr. Gerious Yousseff,남성,26,0,0,14.4583
+생존,1,Miss. Elizabeth Mussey Eustis,여성,54,1,0,78.2667
+사망,3,Mr. Frederick William Shellard,남성,55,0,0,15.1
+사망,1,Mrs. Hudson J C (Bessie Waldo Daniels) Allison,여성,25,1,2,151.55
+사망,3,Mr. Olof Svensson,남성,24,0,0,7.7958
+사망,3,Mr. Petar Calic,남성,17,0,0,8.6625
+사망,3,Miss. Mary Canavan,여성,21,0,0,7.75
+사망,3,Miss. Bridget Mary O'Sullivan,여성,21,0,0,7.6292
+사망,3,Miss. Kristina Sofia Laitinen,여성,37,0,0,9.5875
+생존,1,Miss. Roberta Maioni,여성,16,0,0,86.5
+사망,1,Mr. Victor de Satode Penasco y Castellana,남성,18,1,0,108.9
+생존,2,Mrs. Frederick Charles (Jane Richards) Quick,여성,33,0,2,26
+생존,1,Mr. George Bradley,남성,37,0,0,26.55
+사망,3,Mr. Henry Margido Olsen,남성,28,0,0,22.525
+생존,3,Mr. Fang Lang,남성,26,0,0,56.4958
+생존,3,Mr. Eugene Patrick Daly,남성,29,0,0,7.75
+사망,3,Mr. James Webber,남성,66,0,0,8.05
+생존,1,Mr. James Robert McGough,남성,36,0,0,26.2875
+생존,1,Mrs. Martin (Elizabeth L. Barrett) Rothschild,여성,54,1,0,59.4
+사망,3,Mr. Satio Coleff,남성,24,0,0,7.4958
+사망,1,Mr. William Anderson Walker,남성,47,0,0,34.0208
+생존,2,Mrs. (Amelia Milley) Lemore,여성,34,0,0,10.5
+사망,3,Mr. Patrick Ryan,남성,30,0,0,24.15
+생존,2,Mrs. William A (Florence Agnes Hughes) Angle,여성,36,1,0,26
+사망,3,Mr. Stefo Pavlovic,남성,32,0,0,7.8958
+생존,1,Miss. Anne Perreault,여성,30,0,0,93.5
+사망,3,Mr. Janko Vovk,남성,22,0,0,7.8958
+사망,3,Mr. Sarkis Lahoud,남성,35,0,0,7.225
+생존,1,Mrs. Louis Albert (Ida Sophia Fischer) Hippach,여성,44,0,1,57.9792
+사망,3,Mr. Fared Kassem,남성,18,0,0,7.2292
+사망,3,Mr. James Farrell,남성,40.5,0,0,7.75
+생존,2,Miss. Lucy Ridsdale,여성,50,0,0,10.5
+사망,1,Mr. John Farthing,남성,49,0,0,221.7792
+사망,3,Mr. Johan Werner Salonen,남성,39,0,0,7.925
+사망,2,Mr. Richard George Hocking,남성,23,2,1,11.5
+생존,2,Miss. Phyllis May Quick,여성,2,1,1,26
+사망,3,Mr. Nakli Toufik,남성,17,0,0,7.2292
+사망,3,Mr. Joseph Jr Elias,남성,17,1,1,7.2292
+생존,3,Mrs. Catherine (Catherine Rizk) Peter,여성,24,0,2,22.3583
+사망,3,Miss. Marija Cacic,여성,30,0,0,8.6625
+생존,2,Miss. Eva Miriam Hart,여성,7,0,2,26.25
+사망,1,Major. Archibald Willingham Butt,남성,45,0,0,26.55
+생존,1,Miss. Bertha LeRoy,여성,30,0,0,106.425
+사망,3,Mr. Samuel Beard Risien,남성,69,0,0,14.5
+생존,1,Miss. Hedwig Margaritha Frolicher,여성,22,0,2,49.5
+생존,1,Miss. Harriet R Crosby,여성,36,0,2,71
+사망,3,Miss. Ingeborg Constanzia Andersson,여성,9,4,2,31.275
+사망,3,Miss. Sigrid Elisabeth Andersson,여성,11,4,2,31.275
+생존,2,Mr. Edward Beane,남성,32,1,0,26
+사망,1,Mr. Walter Donald Douglas,남성,50,1,0,106.425
+사망,1,Mr. Arthur Ernest Nicholson,남성,64,0,0,26
+생존,2,Mrs. Edward (Ethel Clarke) Beane,여성,19,1,0,26
+생존,2,Mr. Julian Padro y Manent,남성,27,0,0,13.8625
+사망,3,Mr. Frank John Goldsmith,남성,33,1,1,20.525
+생존,2,Master. John Morgan Jr Davies,남성,8,1,1,36.75
+생존,1,Mr. John Borland Jr Thayer,남성,17,0,2,110.8833
+사망,2,Mr. Percival James R Sharp,남성,27,0,0,26
+사망,3,Mr. Timothy O'Brien,남성,21,0,0,7.8292
+생존,3,Mr. Fahim Leeni,남성,22,0,0,7.225
+생존,3,Miss. Velin Ohman,여성,22,0,0,7.775
+사망,1,Mr. George Wright,남성,62,0,0,26.55
+생존,1,Lady. (Lucille Christiana Sutherland)Duff Gordon,여성,48,1,0,39.6
+사망,1,Mr. Victor Robbins,남성,45,0,0,227.525
+생존,1,Mrs. Emil (Tillie Mandelbaum) Taussig,여성,39,1,1,79.65
+생존,3,Mrs. Guillaume Joseph (Emma) de Messemaeker,여성,36,1,0,17.4
+사망,3,Mr. Thomas Rowan Morrow,남성,30,0,0,7.75
+사망,3,Mr. Husein Sivic,남성,40,0,0,7.8958
+사망,2,Mr. Robert Douglas Norman,남성,28,0,0,13.5
+사망,3,Mr. John Simmons,남성,40,0,0,8.05
+사망,3,Miss. (Marion Ogden) Meanwell,여성,62,0,0,8.05
+사망,3,Mr. Alfred J Davies,남성,24,2,0,24.15
+사망,3,Mr. Ilia Stoytcheff,남성,19,0,0,7.8958
+사망,3,Mrs. Nils (Alma Cornelia Berglund) Palsson,여성,29,0,4,21.075
+사망,3,Mr. Tannous Doharr,남성,28,0,0,7.2292
+생존,3,Mr. Carl Jonsson,남성,32,0,0,7.8542
+생존,2,Mr. George Harris,남성,62,0,0,10.5
+생존,1,Mrs. Edward Dale (Charlotte Lamson) Appleton,여성,53,2,0,51.4792
+생존,1,Mr. John Irwin Flynn,남성,36,0,0,26.3875
+생존,3,Miss. Mary Kelly,여성,22,0,0,7.75
+사망,3,Mr. Alfred George John Rush,남성,16,0,0,8.05
+사망,3,Mr. George Patchett,남성,19,0,0,14.5
+생존,2,Miss. Ethel Garside,여성,34,0,0,13
+생존,1,Mrs. William Baird (Alice Munger) Silvey,여성,39,1,0,55.9
+사망,3,Mrs. Joseph (Maria Elias) Caram,여성,18,1,0,14.4583
+생존,3,Mr. Eiriik Jussila,남성,32,0,0,7.925
+생존,2,Miss. Julie Rachel Christy,여성,25,1,1,30
+생존,1,Mrs. John Borland (Marian Longstreth Morris) Thayer,여성,39,1,1,110.8833
+사망,2,Mr. William James Downton,남성,54,0,0,26
+사망,1,Mr. John Hugo Ross,남성,36,0,0,40.125
+사망,3,Mr. Uscher Paulner,남성,16,0,0,8.7125
+생존,1,Miss. Ruth Taussig,여성,18,0,2,79.65
+사망,2,Mr. John Denzil Jarvis,남성,47,0,0,15
+생존,1,Mr. Maxmillian Frolicher-Stehli,남성,60,1,1,79.2
+사망,3,Mr. Eliezer Gilinski,남성,22,0,0,8.05
+사망,3,Mr. Joseph Murdlin,남성,22,0,0,8.05
+사망,3,Mr. Matti Rintamaki,남성,35,0,0,7.125
+생존,1,Mrs. Walter Bertram (Martha Eustis) Stephenson,여성,52,1,0,78.2667
+사망,3,Mr. William James Elsbury,남성,47,0,0,7.25
+사망,3,Miss. Mary Bourke,여성,40,0,2,7.75
+사망,2,Mr. John Henry Chapman,남성,37,1,0,26
+사망,3,Mr. Jean Baptiste Van Impe,남성,36,1,1,24.15
+생존,2,Miss. Jessie Wills Leitch,여성,31,0,0,33
+사망,3,Mr. Alfred Johnson,남성,49,0,0,0
+사망,3,Mr. Hanna Boulos,남성,18,0,0,7.225
+생존,1,Sir. Cosmo Edmund Duff Gordon,남성,49,1,0,56.9292
+생존,2,Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn,여성,24,2,1,27
+사망,3,Mr. Petco Slabenoff,남성,42,0,0,7.8958
+사망,1,Mr. Charles H Harrington,남성,37,0,0,42.4
+사망,3,Mr. Ernst William Torber,남성,44,0,0,8.05
+생존,1,Mr. Harry Homer,남성,35,0,0,26.55
+사망,3,Mr. Edvard Bengtsson Lindell,남성,36,1,0,15.55
+사망,3,Mr. Milan Karaic,남성,30,0,0,7.8958
+생존,1,Mr. Robert Williams Daniel,남성,27,0,0,30.5
+생존,2,Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche,여성,22,1,2,41.5792
+생존,1,Miss. Elizabeth W Shutes,여성,40,0,0,153.4625
+사망,3,Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson,여성,39,1,5,31.275
+사망,3,Mr. Jose Neto Jardin,남성,21,0,0,7.05
+생존,3,Miss. Margaret Jane Murphy,여성,18,1,0,15.5
+사망,3,Mr. John Horgan,남성,22,0,0,7.75
+사망,3,Mr. William Alfred Brocklebank,남성,35,0,0,8.05
+생존,2,Miss. Alice Herman,여성,24,1,2,65
+사망,3,Mr. Ernst Gilbert Danbom,남성,34,1,1,14.4
+사망,3,Mrs. William Arthur (Cordelia K Stanlick) Lobb,여성,26,1,0,16.1
+생존,2,Miss. Marion Louise Becker,여성,4,2,1,39
+사망,2,Mr. Lawrence Gavey,남성,26,0,0,10.5
+사망,3,Mr. Antoni Yasbeck,남성,27,1,0,14.4542
+생존,1,Mr. Edwin Nelson Jr Kimball,남성,42,1,0,52.5542
+생존,3,Mr. Sahid Nakid,남성,20,1,1,15.7417
+사망,3,Mr. Henry Damsgaard Hansen,남성,21,0,0,7.8542
+사망,3,Mr. David John Bowen,남성,21,0,0,16.1
+사망,1,Mr. Frederick Sutton,남성,61,0,0,32.3208
+사망,2,Rev. Charles Leonard Kirkland,남성,57,0,0,12.35
+생존,1,Miss. Gretchen Fiske Longley,여성,21,0,0,77.9583
+사망,3,Mr. Guentcho Bostandyeff,남성,26,0,0,7.8958
+사망,3,Mr. Patrick D O'Connell,남성,18,0,0,7.7333
+생존,1,Mr. Algernon Henry Wilson Barkworth,남성,80,0,0,30
+사망,3,Mr. Johan Svensson Lundahl,남성,51,0,0,7.0542
+생존,1,Dr. Max Stahelin-Maeglin,남성,32,0,0,30.5
+사망,1,Mr. William Henry Marsh Parr,남성,30,0,0,0
+사망,3,Miss. Mabel Skoog,여성,9,3,2,27.9
+생존,2,Miss. Mary Davis,여성,28,0,0,13
+사망,3,Mr. Antti Gustaf Leinonen,남성,32,0,0,7.925
+사망,2,Mr. Harvey Collyer,남성,31,1,1,26.25
+사망,3,Mrs. Juha (Maria Emilia Ojala) Panula,여성,41,0,5,39.6875
+사망,3,Mr. Percival Thorneycroft,남성,37,1,0,16.1
+사망,3,Mr. Hans Peder Jensen,남성,20,0,0,7.8542
+생존,1,Mlle. Emma Sagesser,여성,24,0,0,69.3
+사망,3,Miss. Margit Elizabeth Skoog,여성,2,3,2,27.9
+생존,3,Mr. Choong Foo,남성,32,0,0,56.4958
+생존,3,Miss. Eugenie Baclini,여성,0.75,2,1,19.2583
+생존,1,Mr. Henry Sleeper Harper,남성,48,1,0,76.7292
+사망,3,Mr. Liudevit Cor,남성,19,0,0,7.8958
+생존,1,Col. Oberst Alfons Simonius-Blumer,남성,56,0,0,35.5
+사망,3,Mr. Edward Willey,남성,21,0,0,7.55
+생존,3,Miss. Amy Zillah Elsie Stanley,여성,23,0,0,7.55
+사망,3,Mr. Mito Mitkoff,남성,23,0,0,7.8958
+생존,2,Miss. Elsie Doling,여성,18,0,1,23
+사망,3,Mr. Johannes Halvorsen Kalvik,남성,21,0,0,8.4333
+생존,3,Miss. Hanora O'Leary,여성,16,0,0,7.8292
+사망,3,Miss. Hanora Hegarty,여성,18,0,0,6.75
+사망,2,Mr. Leonard Mark Hickman,남성,24,2,0,73.5
+사망,3,Mr. Alexander Radeff,남성,27,0,0,7.8958
+사망,3,Mrs. John (Catherine) Bourke,여성,32,1,1,15.5
+사망,2,Mr. George Floyd Eitemiller,남성,23,0,0,13
+사망,1,Mr. Arthur Webster Newell,남성,58,0,2,113.275
+생존,1,Dr. Henry William Frauenthal,남성,50,2,0,133.65
+사망,3,Mr. Mohamed Badt,남성,40,0,0,7.225
+사망,1,Mr. Edward Pomeroy Colley,남성,47,0,0,25.5875
+사망,3,Mr. Peju Coleff,남성,36,0,0,7.4958
+생존,3,Mr. Eino William Lindqvist,남성,20,1,0,7.925
+사망,2,Mr. Lewis Hickman,남성,32,2,0,73.5
+사망,2,Mr. Reginald Fenton Butler,남성,25,0,0,13
+사망,3,Mr. Knud Paust Rommetvedt,남성,49,0,0,7.775
+사망,3,Mr. Jacob Cook,남성,43,0,0,8.05
+생존,1,Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor,여성,48,1,0,52
+생존,2,Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown,여성,40,1,1,39
+사망,1,Mr. Thornton Davidson,남성,31,1,0,52
+사망,2,Mr. Henry Michael Mitchell,남성,70,0,0,10.5
+생존,2,Mr. Charles Wilhelms,남성,31,0,0,13
+사망,2,Mr. Ennis Hastings Watson,남성,19,0,0,0
+사망,3,Mr. Gustaf Hjalmar Edvardsson,남성,18,0,0,7.775
+사망,3,Mr. Frederick Charles Sawyer,남성,24.5,0,0,8.05
+생존,3,Miss. Anna Sofia Turja,여성,18,0,0,9.8417
+사망,3,Mrs. Frederick (Augusta Tyler) Goodwin,여성,43,1,6,46.9
+생존,1,Mr. Thomas Drake Martinez Cardeza,남성,36,0,1,512.3292
+사망,3,Miss. Katie Peters,여성,28,0,0,8.1375
+생존,1,Mr. Hammad Hassab,남성,27,0,0,76.7292
+사망,3,Mr. Thor Anderson Olsvigen,남성,20,0,0,9.225
+사망,3,Mr. Charles Edward Goodwin,남성,14,5,2,46.9
+사망,2,Mr. Thomas William Solomon Brown,남성,60,1,1,39
+사망,2,Mr. Joseph Philippe Lemercier Laroche,남성,25,1,2,41.5792
+사망,3,Mr. Jaako Arnold Panula,남성,14,4,1,39.6875
+사망,3,Mr. Branko Dakic,남성,19,0,0,10.1708
+사망,3,Mr. Eberhard Thelander Fischer,남성,18,0,0,7.7958
+생존,1,Miss. Georgette Alexandra Madill,여성,15,0,1,211.3375
+생존,1,Mr. Albert Adrian Dick,남성,31,1,0,57
+생존,3,Miss. Manca Karun,여성,4,0,1,13.4167
+생존,3,Mr. Ali Lam,남성,37,0,0,56.4958
+사망,3,Mr. Khalil Saad,남성,25,0,0,7.225
+사망,1,Col. John Weir,남성,60,0,0,26.55
+사망,2,Mr. Charles Henry Chapman,남성,52,0,0,13.5
+사망,3,Mr. James Kelly,남성,44,0,0,8.05
+생존,3,Miss. Katherine Mullens,여성,19,0,0,7.7333
+사망,1,Mr. John Borland Thayer,남성,49,1,1,110.8833
+사망,3,Mr. Adolf Mathias Nicolai Olsen Humblen,남성,42,0,0,7.65
+생존,1,Mrs. John Jacob (Madeleine Talmadge Force) Astor,여성,18,1,0,227.525
+생존,1,Mr. Spencer Victor Silverthorne,남성,35,0,0,26.2875
+사망,3,Miss. Saiide Barbara,여성,18,0,1,14.4542
+사망,3,Mr. Martin Gallagher,남성,25,0,0,7.7417
+사망,3,Mr. Henrik Juul Hansen,남성,26,1,0,7.8542
+사망,2,Mr. Henry Samuel Morley,남성,39,0,0,26
+생존,2,Mrs. Florence Kelly,여성,45,0,0,13.5
+생존,1,Mr. Edward Pennington Calderhead,남성,42,0,0,26.2875
+생존,1,Miss. Alice Cleaver,여성,22,0,0,151.55
+생존,3,Master. Halim Gonios Moubarek,남성,4,1,1,15.2458
+생존,1,Mlle. Berthe Antonine Mayne,여성,24,0,0,49.5042
+사망,1,Mr. Herman Klaber,남성,41,0,0,26.55
+생존,1,Mr. Elmer Zebley Taylor,남성,48,1,0,52
+사망,3,Mr. August Viktor Larsson,남성,29,0,0,9.4833
+사망,2,Mr. Samuel Greenberg,남성,52,0,0,13
+사망,3,Mr. Peter Andreas Lauritz Andersen Soholt,남성,19,0,0,7.65
+생존,1,Miss. Caroline Louise Endres,여성,38,0,0,227.525
+생존,2,Miss. Edwina Celia Troutt,여성,27,0,0,10.5
+사망,3,Mr. Malkolm Joackim Johnson,남성,33,0,0,7.775
+생존,2,Miss. Annie Jessie Harper,여성,6,0,1,33
+사망,3,Mr. Svend Lauritz Jensen,남성,17,1,0,7.0542
+사망,2,Mr. William Henry Gillespie,남성,34,0,0,13
+사망,2,Mr. Henry Price Hodges,남성,50,0,0,13
+생존,1,Mr. Norman Campbell Chambers,남성,27,1,0,53.1
+사망,3,Mr. Luka Oreskovic,남성,20,0,0,8.6625
+생존,2,Mrs. Peter Henry (Lillian Jefferys) Renouf,여성,30,3,0,21
+생존,3,Miss. Margareth Mannion,여성,28,0,0,7.7375
+사망,2,Mr. Kurt Arnold Gottfrid Bryhl,남성,25,1,0,26
+사망,3,Miss. Pieta Sofia Ilmakangas,여성,25,1,0,7.925
+생존,1,Miss. Elisabeth Walton Allen,여성,29,0,0,211.3375
+사망,3,Mr. Houssein G N Hassan,남성,11,0,0,18.7875
+사망,2,Mr. Robert J Knight,남성,41,0,0,0
+사망,2,Mr. William John Berriman,남성,23,0,0,13
+사망,2,Mr. Moses Aaron Troupiansky,남성,23,0,0,13
+사망,3,Mr. Leslie Williams,남성,28.5,0,0,16.1
+사망,3,Mrs. Edward (Margaret Ann Watson) Ford,여성,48,1,3,34.375
+생존,1,Mr. Gustave J Lesurer,남성,35,0,0,512.3292
+사망,3,Mr. Kanio Ivanoff,남성,20,0,0,7.8958
+사망,3,Mr. Minko Nankoff,남성,32,0,0,7.8958
+생존,1,Mr. Walter James Hawksford,남성,45,0,0,30
+사망,1,Mr. Tyrell William Cavendish,남성,36,1,0,78.85
+생존,1,Miss. Susan Parker Ryerson,여성,21,2,2,262.375
+사망,3,Mr. Neal McNamee,남성,24,1,0,16.1
+생존,3,Mr. Juho Stranden,남성,31,0,0,7.925
+사망,1,Capt. Edward Gifford Crosby,남성,70,1,1,71
+사망,3,Mr. Rossmore Edward Abbott,남성,16,1,1,20.25
+생존,2,Miss. Anna Sinkkonen,여성,30,0,0,13
+사망,1,Mr. Daniel Warner Marvin,남성,19,1,0,53.1
+사망,3,Mr. Michael Connaghton,남성,31,0,0,7.75
+생존,2,Miss. Joan Wells,여성,4,1,1,23
+생존,3,Master. Meier Moor,남성,6,0,1,12.475
+사망,3,Mr. Johannes Joseph Vande Velde,남성,33,0,0,9.5
+사망,3,Mr. Lalio Jonkoff,남성,23,0,0,7.8958
+생존,2,Mrs. Samuel (Jane Laver) Herman,여성,48,1,2,65
+생존,2,Master. Viljo Hamalainen,남성,0.67,1,1,14.5
+사망,3,Mr. August Sigfrid Carlsson,남성,28,0,0,7.7958
+사망,2,Mr. Percy Andrew Bailey,남성,18,0,0,11.5
+사망,3,Mr. Thomas Leonard Theobald,남성,34,0,0,8.05
+생존,1,the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes,여성,33,0,0,86.5
+사망,3,Mr. John Garfirth,남성,23,0,0,14.5
+사망,3,Mr. Iisakki Antino Aijo Nirva,남성,41,0,0,7.125
+생존,3,Mr. Hanna Assi Barah,남성,20,0,0,7.2292
+생존,1,Mrs. William Ernest (Lucile Polk) Carter,여성,36,1,2,120
+사망,3,Mr. Hans Linus Eklund,남성,16,0,0,7.775
+생존,1,Mrs. John C (Anna Andrews) Hogeboom,여성,51,1,0,77.9583
+사망,1,Dr. Arthur Jackson Brewe,남성,46,0,0,39.6
+사망,3,Miss. Mary Mangan,여성,30.5,0,0,7.75
+사망,3,Mr. Daniel J Moran,남성,28,1,0,24.15
+사망,3,Mr. Daniel Danielsen Gronnestad,남성,32,0,0,8.3625
+사망,3,Mr. Rene Aime Lievens,남성,24,0,0,9.5
+사망,3,Mr. Niels Peder Jensen,남성,48,0,0,7.8542
+사망,2,Mrs. (Mary) Mack,여성,57,0,0,10.5
+사망,3,Mr. Dibo Elias,남성,29,0,0,7.225
+생존,2,Mrs. Elizabeth (Eliza Needs) Hocking,여성,54,1,3,23
+사망,3,Mr. Pehr Fabian Oliver Malkolm Myhrman,남성,18,0,0,7.75
+사망,3,Mr. Roger Tobin,남성,20,0,0,7.75
+생존,3,Miss. Virginia Ethel Emanuel,여성,5,0,0,12.475
+사망,3,Mr. Thomas J Kilgannon,남성,22,0,0,7.7375
+생존,1,Mrs. Edward Scott (Elisabeth Walton McMillan) Robert,여성,43,0,1,211.3375
+생존,3,Miss. Banoura Ayoub,여성,13,0,0,7.2292
+생존,1,Mrs. Albert Adrian (Vera Gillespie) Dick,여성,17,1,0,57
+사망,1,Mr. Milton Clyde Long,남성,29,0,0,30
+사망,3,Mr. Andrew G Johnston,남성,35,1,2,23.45
+사망,3,Mr. William Ali,남성,25,0,0,7.05
+사망,3,Mr. Abraham (David Lishin) Harmer,남성,25,0,0,7.25
+생존,3,Miss. Anna Sofia Sjoblom,여성,18,0,0,7.4958
+사망,3,Master. George Hugh Rice,남성,8,4,1,29.125
+생존,3,Master. Bertram Vere Dean,남성,1,1,2,20.575
+사망,1,Mr. Benjamin Guggenheim,남성,46,0,0,79.2
+사망,3,Mr. Andrew Keane,남성,20,0,0,7.75
+사망,2,Mr. Alfred Gaskell,남성,16,0,0,26
+사망,3,Miss. Stella Anna Sage,여성,21,8,2,69.55
+사망,1,Mr. William Fisher Hoyt,남성,43,0,0,30.6958
+사망,3,Mr. Ristiu Dantcheff,남성,25,0,0,7.8958
+사망,2,Mr. Richard Otter,남성,39,0,0,13
+생존,1,Dr. Alice (Farnham) Leader,여성,49,0,0,25.9292
+생존,3,Mrs. Mara Osman,여성,31,0,0,8.6833
+사망,3,Mr. Yousseff Ibrahim Shawah,남성,30,0,0,7.2292
+사망,3,Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe,여성,30,1,1,24.15
+사망,2,Mr. Martin Ponesell,남성,34,0,0,13
+생존,2,Mrs. Harvey (Charlotte Annie Tate) Collyer,여성,31,1,1,26.25
+생존,1,Master. William Thornton II Carter,남성,11,1,2,120
+생존,3,Master. Assad Alexander Thomas,남성,0.42,0,1,8.5167
+생존,3,Mr. Oskar Arvid Hedman,남성,27,0,0,6.975
+사망,3,Mr. Karl Johan Johansson,남성,31,0,0,7.775
+사망,1,Mr. Thomas Jr Andrews,남성,39,0,0,0
+사망,3,Miss. Ellen Natalia Pettersson,여성,18,0,0,7.775
+사망,2,Mr. August Meyer,남성,39,0,0,13
+생존,1,Mrs. Norman Campbell (Bertha Griggs) Chambers,여성,33,1,0,53.1
+사망,3,Mr. William Alexander,남성,26,0,0,7.8875
+사망,3,Mr. James Lester,남성,39,0,0,24.15
+사망,2,Mr. Richard James Slemen,남성,35,0,0,10.5
+사망,3,Miss. Ebba Iris Alfrida Andersson,여성,6,4,2,31.275
+사망,3,Mr. Ernest Portage Tomlin,남성,30.5,0,0,8.05
+사망,1,Mr. Richard Fry,남성,39,0,0,0
+사망,3,Miss. Wendla Maria Heininen,여성,23,0,0,7.925
+사망,2,Mr. Albert Mallet,남성,31,1,1,37.0042
+사망,3,Mr. John Fredrik Alexander Holm,남성,43,0,0,6.45
+사망,3,Master. Karl Thorsten Skoog,남성,10,3,2,27.9
+생존,1,Mrs. Charles Melville (Clara Jennings Gregg) Hays,여성,52,1,1,93.5
+생존,3,Mr. Nikola Lulic,남성,27,0,0,8.6625
+사망,1,Jonkheer. John George Reuchlin,남성,38,0,0,0
+생존,3,Mrs. (Beila) Moor,여성,27,0,1,12.475
+사망,3,Master. Urho Abraham Panula,남성,2,4,1,39.6875
+사망,3,Mr. John Flynn,남성,36,0,0,6.95
+사망,3,Mr. Len Lam,남성,23,0,0,56.4958
+생존,2,Master. Andre Mallet,남성,1,0,2,37.0042
+생존,3,Mr. Thomas Joseph McCormack,남성,19,0,0,7.75
+생존,1,Mrs. George Nelson (Martha Evelyn) Stone,여성,62,0,0,80
+생존,3,Mrs. Antoni (Selini Alexander) Yasbeck,여성,15,1,0,14.4542
+생존,2,Master. George Sibley Richards,남성,0.83,1,1,18.75
+사망,3,Mr. Amin Saad,남성,30,0,0,7.2292
+사망,3,Mr. Albert Augustsson,남성,23,0,0,7.8542
+사망,3,Mr. Owen George Allum,남성,18,0,0,8.3
+생존,1,Miss. Sara Rebecca Compton,여성,39,1,1,83.1583
+사망,3,Mr. Jakob Pasic,남성,21,0,0,8.6625
+사망,3,Mr. Maurice Sirota,남성,20,0,0,8.05
+생존,3,Mr. Chang Chip,남성,32,0,0,56.4958
+생존,1,Mr. Pierre Marechal,남성,29,0,0,29.7
+사망,3,Mr. Ilmari Rudolf Alhomaki,남성,20,0,0,7.925
+사망,2,Mr. Thomas Charles Mudd,남성,16,0,0,10.5
+생존,1,Miss. Augusta Serepeca,여성,30,0,0,31
+사망,3,Mr. Peter L Lemberopolous,남성,34.5,0,0,6.4375
+사망,3,Mr. Jeso Culumovic,남성,17,0,0,8.6625
+사망,3,Mr. Anthony Abbing,남성,42,0,0,7.55
+사망,3,Mr. Douglas Bullen Sage,남성,18,8,2,69.55
+사망,3,Mr. Marin Markoff,남성,35,0,0,7.8958
+사망,2,Rev. John Harper,남성,28,0,1,33
+생존,1,Mrs. Samuel L (Edwiga Grabowska) Goldenberg,여성,40,1,0,89.1042
+사망,3,Master. Sigvard Harald Elias Andersson,남성,4,4,2,31.275
+사망,3,Mr. Johan Svensson,남성,74,0,0,7.775
+사망,3,Miss. Nourelain Boulos,여성,9,1,1,15.2458
+생존,1,Miss. Mary Conover Lines,여성,16,0,1,39.4
+사망,2,Mrs. Ernest Courtenay (Lilian Hughes) Carter,여성,44,1,0,26
+생존,3,Mrs. Sam (Leah Rosen) Aks,여성,18,0,1,9.35
+생존,1,Mrs. George Dennick (Mary Hitchcock) Wick,여성,45,1,1,164.8667
+생존,1,Mr. Peter Denis Daly,남성,51,0,0,26.55
+생존,3,Mrs. Solomon (Latifa Qurban) Baclini,여성,24,0,3,19.2583
+사망,3,Mr. Raihed Razi,남성,30,0,0,7.2292
+사망,3,Mr. Claus Peter Hansen,남성,41,2,0,14.1083
+사망,2,Mr. Frederick Edward Giles,남성,21,1,0,11.5
+생존,1,Mrs. Frederick Joel (Margaret Welles Barron) Swift,여성,48,0,0,25.9292
+사망,3,Miss. Dorothy Edith Sage,여성,14,8,2,69.55
+사망,2,Mr. John William Gill,남성,24,0,0,13
+생존,2,Mrs. (Karolina) Bystrom,여성,42,0,0,13
+생존,2,Miss. Asuncion Duran y More,여성,27,1,0,13.8583
+사망,1,Mr. Washington Augustus II Roebling,남성,31,0,0,50.4958
+사망,3,Mr. Philemon van Melkebeke,남성,23,0,0,9.5
+생존,3,Master. Harold Theodor Johnson,남성,4,1,1,11.1333
+사망,3,Mr. Cerin Balkic,남성,26,0,0,7.8958
+생존,1,Mrs. Richard Leonard (Sallie Monypeny) Beckwith,여성,47,1,1,52.5542
+사망,1,Mr. Frans Olof Carlsson,남성,33,0,0,5
+사망,3,Mr. Victor Vander Cruyssen,남성,47,0,0,9
+생존,2,Mrs. Samuel (Hannah Wizosky) Abelson,여성,28,1,0,24
+생존,3,Miss. Adele Kiamie Najib,여성,15,0,0,7.225
+사망,3,Mr. Alfred Ossian Gustafsson,남성,20,0,0,9.8458
+사망,3,Mr. Nedelio Petroff,남성,19,0,0,7.8958
+사망,3,Mr. Kristo Laleff,남성,23,0,0,7.8958
+생존,1,Mrs. Thomas Jr (Lily Alexenia Wilson) Potter,여성,56,0,1,83.1583
+생존,2,Mrs. William (Imanita Parrish Hall) Shelley,여성,25,0,1,26
+사망,3,Mr. Johann Markun,남성,33,0,0,7.8958
+사망,3,Miss. Gerda Ulrika Dahlberg,여성,22,0,0,10.5167
+사망,2,Mr. Frederick James Banfield,남성,28,0,0,10.5
+사망,3,Mr. Henry Jr Sutehall,남성,25,0,0,7.05
+사망,3,Mrs. William (Margaret Norton) Rice,여성,39,0,5,29.125
+사망,2,Rev. Juozas Montvila,남성,27,0,0,13
+생존,1,Miss. Margaret Edith Graham,여성,19,0,0,30
+사망,3,Miss. Catherine Helen Johnston,여성,7,1,2,23.45
+생존,1,Mr. Karl Howell Behr,남성,26,0,0,30
+사망,3,Mr. Patrick Dooley,남성,32,0,0,7.75
